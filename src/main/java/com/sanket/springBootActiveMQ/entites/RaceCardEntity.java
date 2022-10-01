@@ -9,9 +9,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-/**
- * Created by jt on 1/10/17.
- */
+
 @Getter
 @Setter
 @ToString
